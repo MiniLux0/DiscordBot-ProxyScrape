@@ -17,6 +17,8 @@ pip install -U git+https://github.com/Rapptz/discord.py
 3. Replace "Token Here" with your bots token.
 4. Ready!!.
 
-## Preview
-<img align="center" width="400" src="https://github.com/Jess-Lux/DiscordBot-ProxyScrape/blob/master/Picture.png">
-<img align="center" width="400" src="https://github.com/Jess-Lux/DiscordBot-ProxyScrape/blob/master/Picture1.png">
+##Support
+
+My discord server: [Light Hit](https://discord.com/invite/gtj3jN6gXw)
+
+My discord user: JessVV#8274
