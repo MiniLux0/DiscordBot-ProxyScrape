@@ -17,7 +17,7 @@ pip install -U git+https://github.com/Rapptz/discord.py
 3. Replace "Token Here" with your bots token.
 4. Ready!!.
 
-##Support
+## Support
 
 My discord server: [Light Hit](https://discord.com/invite/gtj3jN6gXw)
 
