@@ -4,8 +4,8 @@ Auto send fresh proxies from proxyscrape.com.
 
 ## Information
 - This bot sends auto updated proxies in a text file on discord using https://proxyscrape.com's API.
-- To avoid problems use python 3.8.9
-
+- To avoid problems use python 3.8.9 & discord.py 2v
+- Don't forget to use discord.py 2
 ## Usage
 - Run this command in CMD, terminal or PowerShell (if you don't already have the following modules installed):
 ```
