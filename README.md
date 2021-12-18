@@ -19,7 +19,7 @@ pip install -U git+https://github.com/Rapptz/discord.py
 
 ## Support
 
-My discord server: [K O I](https://discord.com/invite/gtj3jN6gXw)
+My discord server: [K O I](https://dsc.gg/k-o-i)
 
 My discord user: JessVV#8274
 
