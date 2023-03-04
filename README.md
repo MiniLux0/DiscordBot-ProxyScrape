@@ -19,8 +19,8 @@ pip install -U git+https://github.com/Rapptz/discord.py
 
 ## Support
 
-My discord server: [K O I](https://dsc.gg/k-o-i)
+My discord server: [K O I](https://discord.gg/6JwzysG6Ff)
 
-My discord user: JessVV#8274
+My discord user: MiniLux#8274
 
 If you improve the code, could you text me? I am aware that the code has some bugs. Thanks
